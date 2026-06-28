@@ -9,6 +9,6 @@ elif score >= 70:
 elif score >= 60:
     print("Grade:D") 
 elif score >= 60:
-    print("Grade:D") 
+    print("Grade:E") 
 else:
     print("Grade:F")                      
