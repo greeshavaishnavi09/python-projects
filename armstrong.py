@@ -1,8 +1,8 @@
-num = 153
-sum = 0
-power = 1
-for n in range(1,num):
-    num +=1 
-if     
+num = int(input("enter a num:"))
+total = sum(int(digit)** num for digit in str(num))
+print(total)
 
-print(num(153))    
+if total == num:
+    print("Armstrong number")
+else:
+    print("Not a armstrong number")
